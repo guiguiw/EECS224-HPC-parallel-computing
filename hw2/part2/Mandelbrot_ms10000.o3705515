@@ -1,0 +1,11 @@
+--------------------------------------------------------------------------
+[[34459,1],17]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: compute-10-4
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+time cost:3.76916

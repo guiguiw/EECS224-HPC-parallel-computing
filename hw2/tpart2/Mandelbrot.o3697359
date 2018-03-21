@@ -1,0 +1,16 @@
+--------------------------------------------------------------------------
+[[59128,1],0]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: compute-13-2
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+[compute-13-2:16455] *** An error occurred in MPI_Gather
+[compute-13-2:16455] *** reported by process [3875012609,0]
+[compute-13-2:16455] *** on communicator MPI_COMM_WORLD
+[compute-13-2:16455] *** MPI_ERR_TRUNCATE: message truncated
+[compute-13-2:16455] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[compute-13-2:16455] ***    and potentially your MPI job)

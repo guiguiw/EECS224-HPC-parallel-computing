@@ -1,0 +1,9 @@
+--------------------------------------------------------------------------
+mpirun was unable to launch the specified application as it could not access
+or execute an executable:
+
+Executable: ./mandelbrot_serial
+Node: compute-13-1
+
+while attempting to start process rank 0.
+--------------------------------------------------------------------------

@@ -1,0 +1,20 @@
+*** ERROR ***
+  A[i=4] == 782977366 > A[5] == 196130996
+mergesort-omp: sort.cc:68: void assertIsSorted(int, const keytype*): Assertion `A[i-1] <= A[i]' failed.
+/var/spool/sge/compute-13-4/job_scripts/3540685: line 18: 15421 Aborted                 (core dumped) ./mergesort-omp 10000000
+*** ERROR ***
+  A[i=4] == 782977366 > A[5] == 196130996
+mergesort-omp: sort.cc:68: void assertIsSorted(int, const keytype*): Assertion `A[i-1] <= A[i]' failed.
+/var/spool/sge/compute-13-4/job_scripts/3540685: line 18: 15422 Aborted                 (core dumped) ./mergesort-omp 10000000
+*** ERROR ***
+  A[i=4] == 782977366 > A[5] == 196130996
+mergesort-omp: sort.cc:68: void assertIsSorted(int, const keytype*): Assertion `A[i-1] <= A[i]' failed.
+/var/spool/sge/compute-13-4/job_scripts/3540685: line 18: 15423 Aborted                 (core dumped) ./mergesort-omp 10000000
+*** ERROR ***
+  A[i=4] == 782977366 > A[5] == 196130996
+mergesort-omp: sort.cc:68: void assertIsSorted(int, const keytype*): Assertion `A[i-1] <= A[i]' failed.
+/var/spool/sge/compute-13-4/job_scripts/3540685: line 18: 15424 Aborted                 (core dumped) ./mergesort-omp 10000000
+*** ERROR ***
+  A[i=4] == 782977366 > A[5] == 196130996
+mergesort-omp: sort.cc:68: void assertIsSorted(int, const keytype*): Assertion `A[i-1] <= A[i]' failed.
+/var/spool/sge/compute-13-4/job_scripts/3540685: line 18: 15425 Aborted                 (core dumped) ./mergesort-omp 10000000

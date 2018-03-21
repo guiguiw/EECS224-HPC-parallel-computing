@@ -1,0 +1,47 @@
+Script began: Fri Mar 2 12:39:33 PST 2018
+Node: compute-1-14.local
+Current directory: /data/users/ruihongw/hw3
+
+=== Running 5 trials of naive ... ===
+*** Trial 1 ***
+N: 8388608
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+Time to execute naive GPU reduction kernel: 0.003351 secs
+Effective bandwidth: 10.01 GB/s
+Time to execute naive CPU reduction: 0.104499 secs
+SUCCESS: GPU: 41.940376 	CPU: 41.940376
+*** Trial 2 ***
+N: 8388608
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+Time to execute naive GPU reduction kernel: 0.003358 secs
+Effective bandwidth: 9.99 GB/s
+Time to execute naive CPU reduction: 0.116018 secs
+SUCCESS: GPU: 41.941284 	CPU: 41.941280
+*** Trial 3 ***
+N: 8388608
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+Time to execute naive GPU reduction kernel: 0.003349 secs
+Effective bandwidth: 10.02 GB/s
+Time to execute naive CPU reduction: 0.104506 secs
+SUCCESS: GPU: 41.939766 	CPU: 41.939762
+*** Trial 4 ***
+N: 8388608
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+Time to execute naive GPU reduction kernel: 0.003351 secs
+Effective bandwidth: 10.01 GB/s
+Time to execute naive CPU reduction: 0.109024 secs
+SUCCESS: GPU: 41.943535 	CPU: 41.943539
+*** Trial 5 ***
+N: 8388608
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+Time to execute naive GPU reduction kernel: 0.003351 secs
+Effective bandwidth: 10.01 GB/s
+Time to execute naive CPU reduction: 0.099557 secs
+SUCCESS: GPU: 41.938782 	CPU: 41.938782
+
+=== Done! ===
